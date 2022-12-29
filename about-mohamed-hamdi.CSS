@@ -1,0 +1,94 @@
+.NameMH{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 64px;
+    margin: 2px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.Description{
+    color: rgba(161, 161, 161, 0.61);
+    margin-left: 45px;
+    margin-right: 600px;
+}
+.DescriptionMH{
+    color: white;
+    text-align: center;
+}
+.MH-Picture{
+    width: 800px;
+    background-position: left;
+    display: block;
+    margin: auto;
+}
+.About-MH{
+    color: white;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-block: 15px;
+}
+.line-A{
+    opacity: 0.60;
+    overflow: visible;
+    width: 170px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin: 0.5px;
+    margin-left: 45px;
+}
+.line-M{
+    opacity: 0.60;
+    overflow: visible;
+    width: 160px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin: 0.5px;
+    margin-left: 45px;
+}
+.Myskills-MH{
+    color:white;;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-block: 15px;
+}
+.ContactMe-MH{
+    color:white;;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-block: 15px;
+}
+.Description-Skills{
+    color: rgba(161, 161, 161, 0.61);
+    margin-left: 75px;
+    margin-right: 600px;
+}
+.P-Description{
+    color: rgba(161, 161, 161, 0.61);
+    margin-left: 50px;
+    margin-right: 600px;
+    margin-block: 5px;
+}
+.line-C{
+    opacity: 0.60;
+    overflow: visible;
+    width: 190px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin: 0.5px;
+    margin-left: 45px;
+}
+.C-Description{
+    color: rgba(173, 14, 14, 0.61);
+    margin-left: 35px;
+    margin-right: 600px;
+    border: none;
+    text-decoration: none;
+}
+
+.button-H{
+    color: rgba(223, 204, 204, 0.801);
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18px;
+}

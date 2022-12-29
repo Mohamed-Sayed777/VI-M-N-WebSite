@@ -1,0 +1,288 @@
+
+/* w3-bar-item w3-button w3-padding-large w3-black */
+nav{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    color: #fff!important;
+    box-sizing: inherit;
+    display: block;
+    height: 100%;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+    font-size: 12px!important;
+    text-align: center!important;
+    width: 120px;
+    background: #222;
+}
+
+.NavImg{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    color: #fff!important;
+    font-size: 12px!important;
+    text-align: center!important;
+    box-sizing: inherit;
+    border-style: none;
+    vertical-align: middle;
+    width: 100%;
+    height: 90px;
+}
+.HomeButton{
+        -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px!important;
+    box-sizing: inherit;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    padding: 12px 24px!important;
+    color: #fff!important;
+    background-color: #000!important;
+    width: 100%;
+    display: block;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    text-align: center;
+}
+.BoxHomeButton{
+    -webkit-text-size-adjust: 100%;
+    cursor: pointer;
+    user-select: none;
+    color: #fff!important;
+    white-space: normal;
+    text-align: center;
+    box-sizing: inherit;
+    font-size: 36px!important;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    text-rendering: auto;
+}
+p{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px!important;
+    cursor: pointer;
+    user-select: none;
+    color: #fff!important;
+    white-space: normal;
+    text-align: center;
+    box-sizing: inherit;
+}
+.NavButton{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px!important;
+    box-sizing: inherit;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    cursor: pointer;
+    user-select: none;
+    padding: 12px 24px!important;
+    width: 100%;
+    /* display: block; */
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    text-align: center;
+}
+body{
+    -webkit-text-size-adjust: 100%;
+    box-sizing: inherit;
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    color: #fff!important;
+    background-color: #000!important;
+}
+header{
+    -webkit-text-size-adjust: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: inherit;
+    display: block;
+    padding: 0.01em 16px;
+    text-align: center!important;
+    padding-top: 32px!important;
+    padding-bottom: 32px!important;
+    color: #fff!important;
+    background-color: #000!important;
+}
+.MainTitle{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    text-align: center!important;
+    color: #fff!important;
+    box-sizing: inherit;
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 64px!important;
+}
+.MainPicture{
+    -webkit-text-size-adjust: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    text-align: center!important;
+    color: #fff!important;
+    width: 992px;
+    aspect-ratio: auto 992 / 1108;
+    box-sizing: inherit;
+    border-style: none;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    margin-left: 112px;
+    height: 600px;
+}
+#Photos{
+    -webkit-text-size-adjust: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    color: #fff!important;
+    box-sizing: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+}
+.PhotoSection{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    box-sizing: inherit;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: "Montserrat", sans-serif;
+    color: #f1f1f1!important;
+}
+.Line{
+    -webkit-text-size-adjust: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    color: #fff!important;
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+    opacity: 0.60;
+    width: 301px;
+}
+
+#Contact{
+    -webkit-text-size-adjust: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    color: #757575!important;
+}
+.Image{
+    width: 255px;
+    height: 255px;
+}
+.ContactSection{
+    color: rgb(255, 255, 255); 
+}
+.FormContact{
+    -webkit-text-size-adjust: 100%;
+    box-sizing: inherit;
+    font: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    padding-top: 16px!important;
+    padding-bottom: 16px!important;
+}
+    
+.ButtonForm{
+    -webkit-text-size-adjust: 100%;
+    box-sizing: inherit;
+    font: inherit;
+    margin: 0;
+    text-transform: none;
+    -webkit-appearance: button;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    padding: 12px 24px!important;
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+.IconsNav{
+    -webkit-text-size-adjust: 100%;
+    cursor: pointer;
+    user-select: none;
+    color: #fff!important;
+    white-space: normal;
+    text-align: center;
+    box-sizing: inherit;
+    font-size: 36px!important;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.navBotton{
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px!important;
+    box-sizing: inherit;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    cursor: pointer;
+    user-select: none;
+    padding: 12px 24px!important;
+    width: 100%;
+    display: block;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    text-align: center;
+}
+.ImgDescription{
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px; 
+}

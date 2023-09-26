@@ -18,4 +18,4 @@ This is a simple HTML/CSS website dedicated to showcasing my college colleagues.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Mohamed-Sayed777/colleaguess-in-college-website.git
+   git clone https://github.com/Mohamed-Sayed777/VI-M-N-WebSite.git
